@@ -1,0 +1,6 @@
+﻿16:00:44 🔎 Detected changes to 'Figuri.cpp' in 'pr1.4.exe' for recompilation...
+16:00:44 ⚙️ Building changes...
+16:00:44 Figuri.cpp
+16:00:45 ✔️ Build has completed
+
+16:00:45 ✔️ Successfully applied code changes.
